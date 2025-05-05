@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #CD2427;
+}
+.grid-container {
+	display: grid;
+}.container {
+    background-color: #FFD3EF;
+	padding-top: 60px
+}
+body  {
+    background-color: #7D3FF6;
+}
+.row .col-xl-4 .text-center {
+}
+.row {
+    background-color: #FFD3EF;
+    color: #FFFFFF;
+	padding: 10px
+}
+.container {
+    color: #FFFFFF;
+}
+
+button {
+	background-color: #5589CE;
+}
